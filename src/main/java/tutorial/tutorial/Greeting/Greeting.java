@@ -1,4 +1,4 @@
-package tutorial.tutorial;
+package tutorial.tutorial.Greeting;
 
 public record Greeting(long id, String content) {
 }
